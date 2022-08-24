@@ -5,4 +5,4 @@
 ```git clone https://github.com/rrlcs/pyterrier-bm25.git```
 
 ## Run
-```python code/preprocess.py
+```python code/preprocess.py```
